@@ -1,0 +1,3 @@
+﻿  countOfBits.cpp
+C:\Users\мариа\source\repos\countOfBits\countOfBits\countOfBits.cpp(11,18): warning C4101: num: неиспользованная локальная переменная
+  countOfBits.vcxproj -> C:\Users\мариа\source\repos\countOfBits\x64\Debug\countOfBits.exe
